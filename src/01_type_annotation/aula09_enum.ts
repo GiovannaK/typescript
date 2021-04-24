@@ -14,7 +14,7 @@ console.log(Cores.VERMELHO);
 console.log(Cores[0]);
 console.log(Cores);
 
-function escolhaCor(cor: Cores): void {
+export function escolhaCor(cor: Cores): void {
   console.log(Cores[cor]);
 }
 
