@@ -1,3 +1,1 @@
-import func from './mod';
-
-func();
+import './form-control';
