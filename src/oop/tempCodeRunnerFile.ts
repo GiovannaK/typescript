@@ -1,0 +1,1 @@
+console.log(colaborador1);
